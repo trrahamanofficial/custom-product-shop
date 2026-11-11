@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
 export const metadata: Metadata = {
-  title: "ShopBangla — Online Store",
-  description: "ShopBangla online shopping",
+  title: "BigBag Shop — Online Store",
+  description: "BigBag Shop online shopping",
   manifest: "/manifest.webmanifest",
 };
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
