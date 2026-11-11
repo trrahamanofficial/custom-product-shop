@@ -1,8 +1,8 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "bigbag-shop",
+  "name": "custom-product-shop",
   "main": ".open-next/worker.js",
-  "compatibility_date": "2026-11-12",
+  "compatibility_date": "2026-11-10",
   "compatibility_flags": ["nodejs_compat"],
   "assets": {
     "directory": ".open-next/assets",
