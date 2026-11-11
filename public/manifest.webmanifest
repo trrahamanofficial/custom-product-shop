@@ -1,6 +1,6 @@
 {
-  "name": "ShopBangla",
-  "short_name": "ShopBangla",
+  "name": "BigBag Shop",
+  "short_name": "BigBag",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#f7faf7",
