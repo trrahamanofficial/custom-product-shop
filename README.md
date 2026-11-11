@@ -1,4 +1,4 @@
-# ShopBangla
+# BigBag Shop
 
 Bengali-first ecommerce starter built with Next.js and Supabase.
 
